@@ -2,5 +2,5 @@
 
 Hello
 
-This a test of guit branching
+This a test of git branching
 
